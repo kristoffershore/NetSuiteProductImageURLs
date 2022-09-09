@@ -1,1 +1,1 @@
-Pulls urls from Netsuite Suite Commerce products. Netsuite saved searches don't support exporting of this field and it is a necessary component of Google's shopping feed.
+Pulls urls from Netsuite Suite Commerce products. Netsuite saved searches don't support exporting of this field and it is a necessary component of Google's shopping feed. To use you have to put in the end url component of a specific commerce category to observe into the code. You can import the results to Netsuite in a custom item field.
